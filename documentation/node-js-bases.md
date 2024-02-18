@@ -14,9 +14,9 @@ How to set up TypeScript Node.js project: [typescript-node-starter-project](http
 
 ## Task: create an application book-stock
 - [ ] Setup TypeScript project
-- [ ] Setup Nodemon.js to build and run typescript project
+- [ ] Setup Nodemon.js to build and run the typescript project
 - [ ] Add ExpressJS
 - [ ] Add esLint and prettier
-- [ ] Create an endpoint '/hello' which return 'Hello world!'
+- [ ] Create an endpoint '/hello' which returns 'Hello world!'
 - [ ] Publish it in any git hosting platform
 
